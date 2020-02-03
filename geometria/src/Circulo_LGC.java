@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Luis
+ *
+ */
 public class Circulo_LGC extends FiguraGeometrica_LGC {
 	private double radio;
 	//Constante pi
